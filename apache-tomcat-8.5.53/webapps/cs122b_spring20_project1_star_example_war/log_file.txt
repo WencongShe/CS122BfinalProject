@@ -1,0 +1,10 @@
+search servlet total execution time: 1894729922232ns,JDBC execution time: 0ns
+search servlet total execution time: 1894827370981ns,JDBC execution time: 0ns
+search servlet total execution time: 1894429592892ns,JDBC execution time: 0ns
+search servlet total execution time: 1894527821881ns,JDBC execution time: 0ns
+search servlet total execution time: 1894631067898ns,JDBC execution time: 0ns
+search servlet total execution time: 1894234920128ns,JDBC execution time: 0ns
+search servlet total execution time: 1894334570164ns,JDBC execution time: 0ns
+search servlet total execution time: 1894133294565ns,JDBC execution time: 0ns
+search servlet total execution time: 1894036422377ns,JDBC execution time: 0ns
+search servlet total execution time: 1893945790928ns,JDBC execution time: 0ns
